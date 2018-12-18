@@ -1,0 +1,9 @@
+@font-face{
+  font-family:"titaniaregular";
+  font-style:normal;
+  font-weight:normal;
+  src:url("~assets/fonts/titania-regular-webfont.eot?#iefix") format("embedded-opentype"), 
+    url("~assets/fonts/titania-regular-webfont.woff") format("woff"), 
+    url("~assets/fonts/titania-regular-webfont.ttf") format("truetype"), 
+    url("~assets/fonts/titania-regular-webfont.svg#titaniaregular") format("svg");
+}
