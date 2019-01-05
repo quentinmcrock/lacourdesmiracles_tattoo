@@ -4,9 +4,9 @@
     <div class="share border">
      <p class="link">
       Nous suivre :
-      <a class="entry" href="www.facebook.com/lacourdesmiraclestattoos/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-      <a class="entry" href="www.instagram.com/lacourdesmiraclestattoos/" target="_blank"><i class="fab fa-instagram"></i></a>
-      <a class="entry" href="www.twitter.com/lacourtattoo" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a class="entry" href="https://www.facebook.com/lacourdesmiraclestattoos/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+      <a class="entry" href="https://www.instagram.com/lacourdesmiraclestattoos/" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a class="entry" href="https://www.twitter.com/lacourtattoo" target="_blank"><i class="fab fa-twitter"></i></a>
      </p>
     </div>
 
