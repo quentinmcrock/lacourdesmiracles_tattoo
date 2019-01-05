@@ -54,8 +54,9 @@
 <style>
   .sidebar {
       position: relative;
-      display: inline-grid;
+      display: inline-block;
       text-align: left;
+      float:right;
       width: 30%;
   }
   .centered-and-cropped { 
@@ -146,7 +147,7 @@
       font-size:18px;
   }
   .collapsible {
-      min-width: 300px;
+      min-width: 290px;
       max-width: 700px;
       margin: 20px auto;
       display: flex;
@@ -199,6 +200,7 @@
   @media only screen and (max-width:599px){
       .sidebar {
           width: 100%;
+          float:none;
       }
   }
 </style>
