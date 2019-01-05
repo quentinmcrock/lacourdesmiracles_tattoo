@@ -34,7 +34,7 @@
 </script>
 <style>
 html {
-  font-family: 'Kalam', cursive;
+  font-family: 'Domine', serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -155,6 +155,7 @@ h1, h2, h3, h4, h5, h6 {
     h2 {
         font-size: 50px;
         line-height: 1em;
+        margin-bottom: 15px;
     }
     .container {
         padding: 30px 15px;
