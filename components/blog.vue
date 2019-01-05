@@ -1,7 +1,7 @@
 <template>
   <div class="container">
       <div class="blog-list">
-          <article v-for="post in posts.reverse()" :key="post.date">
+          <article v-for="post in posts.slice(5,0).reverse()" :key="post.date">
               <nuxt-link class="blog-title underline" :to="post._path">{{ post.title }}</nuxt-link>
               <img class="blog-cover" :src="post.couverture">
               <vue-markdown>{{post.intro}}...</vue-markdown>
