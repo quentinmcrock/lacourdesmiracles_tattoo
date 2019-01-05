@@ -5,13 +5,9 @@
               <nuxt-link class="blog-title underline" :to="post._path">{{ post.title }}</nuxt-link>
               <img class="blog-cover" :src="post.couverture">
               <vue-markdown>{{post.intro}}...</vue-markdown>
-              <div class="row vertical-aligned-columns">
-                <div class="a">
+              <div class="row vertical-aligned-columns">  
                   <nuxt-link class="blog-readmore underline" :to="post._path">En savoir plus</nuxt-link>
-                </div>
-                <div class="b">
-                   <div class="blog-date">{{ post.date }}</div>
-                </div>
+                  <div class="blog-date">{{ post.date }}</div>
               </div>
           </article>
       </div>
