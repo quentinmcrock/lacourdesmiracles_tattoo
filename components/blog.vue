@@ -1,7 +1,7 @@
 <template>
   <div class="container">
       <div class="blog-list">
-          <article v-for="post in posts" :key="post.date">
+          <article v-for="post in orderPosts" :key="post.date">
               <nuxt-link class="blog-title underline" :to="post._path">{{ post.title }}</nuxt-link>
               <img class="blog-cover" :src="post.couverture">
               <vue-markdown>{{post.intro}}...</vue-markdown>
@@ -29,6 +29,11 @@
         _path: `/blog/${key.replace('.json', '').replace('./', '')}`
       }));
       return { posts };
+    },
+    computed: {
+      orderPosts: function () {
+        return _.orderBy(this.posts, 'date')
+      }
     },
     mounted() {
  
