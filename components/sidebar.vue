@@ -19,8 +19,7 @@
       </div>
       <div class="collapsible__body">
         <div class="collapsible__content">
-          <div class="linked border" v-for="post in posts" :key="post.date">        
-              <img :src="post.couverture" alt="Avatar" class="image" style="width:100%"> 
+          <div class="linked border" v-for="post in posts.reverse()" :key="post.date">        
               <nuxt-link :to="post._path" class="text">{{ post.title }}</nuxt-link>
           </div>
         </div>
