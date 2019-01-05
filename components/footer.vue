@@ -49,7 +49,7 @@
     }
     @media only screen and (max-width:599px){
         .footer-black {
-            padding: 15px 0;
+            padding: 40px 15px;
         }
     }
 </style>
