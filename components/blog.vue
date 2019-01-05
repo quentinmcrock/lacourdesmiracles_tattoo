@@ -71,6 +71,7 @@
   .blog-footer {
       display: inline-flex;
       width: 100%;
+      margin-bottom: 30px;
   }
   .blog-readmore {
     font-family: titaniaregular,serif;
