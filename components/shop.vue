@@ -269,12 +269,12 @@ export default {
       margin-bottom:30px;
       text-decoration: none;
       border:1px solid #fff;
+      -webkit-transition: all 1000ms cubic-bezier(0.8, 0, 0.2, 1) 0s;
+      transition: all 1000ms cubic-bezier(0.8, 0, 0.2, 1) 0s;
   }
   .tel:hover {
       background: black;
-      color: white !important;
-      -webkit-transition: all 1000ms cubic-bezier(0.8, 0, 0.2, 1) 0s;
-      transition: all 1000ms cubic-bezier(0.8, 0, 0.2, 1) 0s;
+      color: white !important;      
   }
   .navigation {
       color: #fff;
