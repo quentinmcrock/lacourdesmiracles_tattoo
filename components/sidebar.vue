@@ -174,7 +174,7 @@
   .collapsible__content {
       opacity: 0;
       transition: all .4s .4s;
-      display: flex;
+      display: block;
       justify-content: space-between;
   }
   .collapsible__icon {
