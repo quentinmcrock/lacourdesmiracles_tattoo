@@ -30,7 +30,7 @@ collections:
     label: "Blog" 
     folder: "content/blog/posts"
     create: true
-    slug: "{{month}}/{{years}}/{{slug}}"
+    slug: "{{years}}-{{month}}-{{day}}-{{slug}}"
     format: 'json'
     fields:
       - {label: "Image de couverture", name: "couverture", widget: "image"}
