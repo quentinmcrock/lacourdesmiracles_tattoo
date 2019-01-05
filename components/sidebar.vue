@@ -10,7 +10,6 @@
      </p>
     </div>
 
-    <cdm-events/>
     <div class="collapsible">
       <div class="collapsible__head">
         <div class="collapsible__title"><h4>Derniers articles</h4></div>
@@ -32,10 +31,10 @@
   </div>
 </template>
 <script>
-  import cdmEvents from '~/components/plug/derniers-events.vue'
+
   export default {
     components: {
-      cdmEvents
+      
     },
     data() {
       const context = require.context('~/content/blog/posts/', false, /\.json$/);
