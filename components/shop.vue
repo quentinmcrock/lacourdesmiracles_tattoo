@@ -262,11 +262,19 @@ export default {
       color: #fff;
   }
   .tel {
-      background: white none repeat scroll 0 0;
+      background: white;
       color: black !important;
       display: inline-block;
       padding: 10px;
       margin-bottom:30px;
+      text-decoration: none;
+      border:1px solid #fff;
+  }
+  .tel:hover {
+      background: black;
+      color: white !important;
+      -webkit-transition: all 1000ms cubic-bezier(0.8, 0, 0.2, 1) 0s;
+      transition: all 1000ms cubic-bezier(0.8, 0, 0.2, 1) 0s;
   }
   .navigation {
       color: #fff;
