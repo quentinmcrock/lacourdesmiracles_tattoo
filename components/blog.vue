@@ -6,7 +6,7 @@
               <img class="blog-cover" :src="post.couverture">
               <vue-markdown>{{post.intro}}...</vue-markdown>
               <div class="blog-footer">  
-                  <nuxt-link class="blog-readmore underline" :to="post._path">En savoir plus</nuxt-link>
+                  <nuxt-link class="blog-readmore" :to="post._path">En savoir plus</nuxt-link>
                   <div class="blog-date">{{ post.date }}</div>
               </div>
           </article>
@@ -68,12 +68,19 @@
     color: black;
   }
  
+  .blog-footer {
+      display: inline-flex;
+      width: 100%;
+  }
   .blog-readmore {
     font-family: titaniaregular,serif;
     color: black;
     font-size: 16px;
     text-transform: uppercase;
     text-decoration: none;
+    display: flex;
+    line-height: 1.56em;
+    width: 50%;
   }
   .blog-date {
       border-left: 7px double #e6e6e6;
@@ -85,6 +92,8 @@
       font-weight: 900;
       font-family: 'titaniaregular', serif;
       text-align: right;
+      position: relative;
+      width: 50%;
   }
   .blog-date b.grey {
       color: #898989;
@@ -101,6 +110,7 @@
   .sa {
       padding: 0 30px;
   }
+  
   @media only screen and (min-width:960px) and (max-width:1264px){
   
   }
