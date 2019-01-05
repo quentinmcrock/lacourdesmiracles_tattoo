@@ -58,7 +58,7 @@
     padding: 0px;
     text-align: justify;
     font-weight: 400;
-    font-size: 26px;
+    font-size: 18px;
     line-height: 1.7;
     margin-bottom: 15px;
     color: #505050;
