@@ -34,7 +34,7 @@
 </script>
 <style>
 html {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Kalam', cursive;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -144,5 +144,20 @@ h1, h2, h3, h4, h5, h6 {
   }
   .underline:hover {
     background-size: 100% 100%;
+  }
+  @media only screen and (min-width:960px) and (max-width:1264px){
+  
+  }
+  @media only screen and (min-width:600px) and (max-width:959px){
+  
+  }
+  @media only screen and (max-width:599px){
+    h2 {
+        font-size: 50px;
+        line-height: 1em;
+    }
+    .container {
+        padding: 30px 15px;
+    }
   }
 </style>
