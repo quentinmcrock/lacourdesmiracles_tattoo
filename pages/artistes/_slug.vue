@@ -173,7 +173,6 @@ export default {
   .portfolio {
       position: relative;
       background: gray;
-      margin-bottom: 30px;
   }
   .works {
       width: 25%;
