@@ -7,7 +7,7 @@
               <vue-markdown>{{post.intro}}...</vue-markdown>
               <div class="blog-footer">  
                   <nuxt-link class="blog-readmore" :to="post._path">En savoir plus</nuxt-link>
-                  <div class="blog-date">{{ post.date }}</div>
+                  <div class="blog-date"><p>Par <nuxt-link to="/artistes/piero/">Piero</nuxt-link>, le <b>{{ post.date }}</b></p></div>
               </div>
           </article>
       </div>
