@@ -12,7 +12,7 @@
 <script>
   import $ from 'jquery'
   // import components
-  import cdmBlog from '~/components/blog.vue'
+  import cdmBlog from '~/components/blog-full.vue'
   // export
   export default {
     layout: 'default',
