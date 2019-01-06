@@ -199,6 +199,9 @@
   .collapsible--open .collapsible__content {
       opacity: 1;
   }
+  .blog-date p {
+      text-align: right;
+  }
   @media only screen and (min-width:960px) and (max-width:1264px){
   
   }
