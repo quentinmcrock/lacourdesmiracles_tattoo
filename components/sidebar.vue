@@ -161,6 +161,9 @@
       display: flex;
       flex-direction: column;
   }
+  .collapsible .linked {
+      padding: 10px 0px;
+  }
   .collapsible > * {
   }
   .collapsible__head {
