@@ -61,6 +61,11 @@
       float:right;
       width: 30%;
   }
+  .sidebar small {
+      margin: 0px;
+      display: block;
+      position: relative;
+  }
   .centered-and-cropped { 
     object-fit: cover;
   }
