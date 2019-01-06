@@ -10,7 +10,7 @@
      </p>
     </div>
     <div class="videos border">
-      <iframe width="1170" height="658" src="https://www.youtube.com/embed/mRGHLKFlHSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="100%" src="https://www.youtube.com/embed/mRGHLKFlHSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="collapsible">
       <div class="collapsible__head">
