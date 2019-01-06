@@ -2,7 +2,7 @@
     <div class="equipes">
       <div class="container">
           <div class="wrapper">
-              <article v-for="artiste in artistes.reverse()" :key="artiste.date">  
+              <article v-for="artiste in artistes.slice().reverse()" :key="artiste.date">  
                   <nuxt-link class="title" :to="artiste._path">
                     <div class="thumb">
                         <img :src="artiste.miniature" :alt="artiste.title">
