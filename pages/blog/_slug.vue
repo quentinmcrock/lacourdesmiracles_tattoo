@@ -12,7 +12,7 @@
             <vue-markdown class="content-intro">{{intro}}</vue-markdown>
             <vue-markdown class="content-article">{{article}}</vue-markdown>
         </div>
-         
+        <cdm-sidebar/>
       </div>
     </article>
     <cdm-derniersarticles/>
