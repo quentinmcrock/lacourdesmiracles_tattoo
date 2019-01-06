@@ -141,6 +141,7 @@
   .linked{
       margin: 0 0 30px;
       border-top: none !important;
+      text-align: left;
   }
   .share.border {
       border-color: #000 !important;
