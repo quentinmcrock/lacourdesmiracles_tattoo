@@ -139,7 +139,7 @@
       float: right;
   }
   .linked{
-      margin: 0 0 30px;
+      margin: 0px;
       border-top: none !important;
       text-align: left;
   }
