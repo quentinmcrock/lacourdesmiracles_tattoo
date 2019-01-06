@@ -9,7 +9,9 @@
       <a class="entry" href="https://www.twitter.com/lacourtattoo" target="_blank"><i class="fab fa-twitter"></i></a>
      </p>
     </div>
-
+    <div class="videos border">
+      <iframe width="1170" height="658" src="https://www.youtube.com/embed/mRGHLKFlHSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
     <div class="collapsible">
       <div class="collapsible__head">
         <div class="collapsible__title"><h4>Derniers articles</h4></div>
