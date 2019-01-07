@@ -197,7 +197,7 @@
       transform: rotate(180deg);
   }
   .collapsible--open .collapsible__body {
-      padding: 30px 0px 30px;
+      padding: 10px 0px 10px;
       height: 100%;
   }
   .collapsible--open .collapsible__content {
