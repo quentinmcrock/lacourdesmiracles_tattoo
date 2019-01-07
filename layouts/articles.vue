@@ -44,7 +44,7 @@
   padding: 70px 0!important;
 }
 html {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Domine', serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
