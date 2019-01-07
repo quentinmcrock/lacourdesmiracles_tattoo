@@ -1,17 +1,7 @@
 <template>
   <div class="derniers-articles">
-      <div class="box">    
-        <nuxt-link v-for="post in posts.slice(0, 1)" :key="post.date" class="highlight-title" :to="post._path">
-          <img class="centered-and-cropped" :src="post.couverture">
-        </nuxt-link>
-      </div>
-      <div class="box">
-        <nuxt-link v-for="post in posts.slice(1, 2)" :key="post.date" class="highlight-title" :to="post._path">
-          <img class="centered-and-cropped" :src="post.couverture">
-        </nuxt-link>
-      </div>
-      <div class="box">
-        <nuxt-link v-for="post in posts.slice(2, 3)" :key="post.date" class="highlight-title" :to="post._path">
+      <div class="box" v-for="post in posts.slice().reverse().slice(0, 3)" :key="post.date" >    
+        <nuxt-link class="highlight-title" :to="post._path">
           <img class="centered-and-cropped" :src="post.couverture">
         </nuxt-link>
       </div>
@@ -34,6 +24,10 @@
     display: grid;
     grid-template-columns: 33.33% 33.33% 33.33%;
     grid-gap: 0px;
+    max-width: 1170px;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-top: -40px;
   }
   .centered-and-cropped {
     width: 100%;
