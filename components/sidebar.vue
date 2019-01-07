@@ -158,7 +158,7 @@
   .collapsible {
       min-width: 290px;
       max-width: 700px;
-      margin: 20px auto;
+      margin: 10px auto;
       display: flex;
       flex-direction: column;
   }
@@ -177,10 +177,10 @@
   }
   .collapsible__body {
       border-top: none;
-      margin-top: -15px;
+      margin-top: -10px;
       overflow: hidden;
       height: 0;
-      padding: 0 10px;
+      padding: 0px;
       transition: all .4s;
   }
   .collapsible__content {
@@ -205,6 +205,10 @@
   }
   .blog-date p {
       text-align: right;
+  }
+  .videos.border {
+      border: none !important;
+      margin-top: 10px;
   }
   @media only screen and (min-width:960px) and (max-width:1264px){
   
