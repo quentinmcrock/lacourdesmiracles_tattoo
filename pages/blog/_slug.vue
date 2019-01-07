@@ -94,7 +94,7 @@ export default {
       font-weight: 400;
   }
   .content-intro p{
-      color: #FFFFFF;
+      color: #000000;
   }
   .content-article img {
     width: 100%;
