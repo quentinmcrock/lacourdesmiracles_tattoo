@@ -26,11 +26,6 @@
                 <a class="tel" href="tel:+33561539255">05 61 53 92 55</a><br/>
                 <a class="mailto" href="mailto:contact@thebigvoodoo.com">contact@thebigvoodoo.com</a><br/>
                 <p>1 RUE DELACROIX 31000 TOULOUSE</p>
-                <div class="follow">
-                  <a class="entry" href="https://www.instagram.com/lacourdesmiraclestattoos/" target="_blank"><i class="fab fa-instagram"></i></a>
-                  <a class="entry" href="https://www.facebook.com/lacourdesmiraclestattoos/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                  <a class="entry" href="https://twitter.com/lacourtattoo" target="_blank"><i class="fab fa-twitter"></i></a>
-                </div>
             </div>
         </div>
       </div>      
@@ -60,11 +55,6 @@
                 <a class="tel" href="tel:+33984011269">09 84 01 12 69</a><br/>
                 <a class="mailto" href="mailto:contact@thebigvoodoo.com">contact@thebigvoodoo.com</a><br/>
                 <p>10 RUE MALBEC 31000 TOULOUSE</p>
-                <div class="follow">
-                  <a class="entry" href="https://www.instagram.com/lacourdesmiraclestattoos/" target="_blank"><i class="fab fa-instagram"></i></a>
-                  <a class="entry" href="https://www.facebook.com/lacourdesmiraclestattoos/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                  <a class="entry" href="https://twitter.com/lacourtattoo" target="_blank"><i class="fab fa-twitter"></i></a>
-                </div>
             </div>
         </div>
       </div>      
