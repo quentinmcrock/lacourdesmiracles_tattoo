@@ -9,7 +9,6 @@
       <a class="entry" href="https://www.twitter.com/lacourtattoo" target="_blank"><i class="fab fa-twitter"></i></a>
      </p>
     </div>
-    <h3>La cour des miracles <strong>recherche des tatoueurs</strong>, bon niveau et book solide requis !</h3>
     <div class="videos border">
       <iframe width="100%" src="https://www.youtube.com/embed/mRGHLKFlHSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
