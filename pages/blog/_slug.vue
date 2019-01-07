@@ -131,6 +131,9 @@ export default {
   .linked a:hover {
       color: #000000;
   }
+  .link a {
+      border: none;
+  }
   .link i {
       color: #FFF;
   }
