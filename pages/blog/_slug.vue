@@ -137,4 +137,5 @@ export default {
   .link i {
       color: #FFF;
   }
+
 </style>
