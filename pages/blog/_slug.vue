@@ -86,9 +86,18 @@ export default {
       width: 70%;
       display: inline-grid;
   }
+  .content-intro {
+      text-align: justify;
+      margin-bottom: 30px;
+      line-height: 1.7;
+      font-size: 26px;
+      font-weight: 400;
+  }
+  .content-intro p{
+      color: #FFFFFF;
+  }
   .content-article img {
     width: 100%;
-    margin-top: 30px;
   }
   .contenu .content-intro p{
       color: #000000;
