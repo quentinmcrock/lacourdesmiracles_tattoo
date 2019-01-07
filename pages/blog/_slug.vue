@@ -90,6 +90,7 @@ export default {
       padding: 0 30px 0 0px;
       width: 70%;
       display: inline-grid;
+      min-height: 550px;
   }
   .content-intro {
       text-align: justify;
