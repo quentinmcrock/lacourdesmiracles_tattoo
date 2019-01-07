@@ -95,8 +95,9 @@ h1, h2, h3, h4, h5, h6 {
       color:#fff;
   }
   .border p{
-      color:rgb(128, 128, 128);
-      font-size:22px;
+      color: grey;
+      font-size: 18px;
+      line-height: 1.7;
   }
   .border p b{
       color:#000;
