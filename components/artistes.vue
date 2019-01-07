@@ -65,6 +65,7 @@
       display: block;
       font-size: 32px;
       color: black;
+      text-decoration: none;
   }
   .equipes h3 {
       display: initial;
