@@ -83,7 +83,7 @@ export default {
   .contenu{
       text-align: left;
       padding: 0 30px;
-      width: 100%;
+      width: 70%;
       display: inline-grid;
   }
   .content-article img {
