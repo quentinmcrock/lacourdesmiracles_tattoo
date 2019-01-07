@@ -55,11 +55,12 @@
 </script>
 <style>
   .sidebar {
-      position: relative;
+      position: sticky;
       display: inline-block;
       text-align: left;
       float:right;
       width: 30%;
+      top:120px;
   }
   .sidebar small {
       margin: 0px;
