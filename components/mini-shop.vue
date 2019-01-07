@@ -55,7 +55,7 @@ export default {
 </script>
 <style>  
   .minishop {
-      height: 300px;
+      height: 240px;
       background: #000;
       width: 100%;
       position: relative;
@@ -77,7 +77,7 @@ export default {
       padding-top: 100px;
   }
   .minishop.all .shop-left {
-      padding-top: 175px;
+      padding-top: 160px;
   }
   .minishop .shop-right{
       right:0;
@@ -161,7 +161,7 @@ export default {
       top: 0;
       position: absolute;
       text-align: center;
-      padding: 50px;
+      padding: 25px;
       width: 50%;
       z-index:2;
   }
