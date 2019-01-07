@@ -124,9 +124,12 @@ export default {
     font-family: "titaniaregular",serif;
     border-bottom: 1px solid red;
   }
-  .link a {
-    border:none;
-    color: grey;
+  .linked a {
+      border: none;
+      color: grey;
+  }
+  .linked a:hover {
+      color: #000000;
   }
   .link i {
       color: #FFF;
