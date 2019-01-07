@@ -119,13 +119,16 @@ export default {
     text-align: left;
   }
   .post a {
-      color: #000;
-      text-decoration: none;
-      font-family: "titaniaregular",serif;
-      border-bottom: 1px solid red;
+    color: #000;
+    text-decoration: none;
+    font-family: "titaniaregular",serif;
+    border-bottom: 1px solid red;
   }
-  .sidebar {
-      position: relative;
-      display: inline-grid;
+  .link a {
+    border:none;
+    color: grey;
+  }
+  .link i {
+      color: #FFF;
   }
 </style>
