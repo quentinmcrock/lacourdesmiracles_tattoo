@@ -8,9 +8,7 @@
         <div class="meta">
           <p>Par  <nuxt-link to="/artistes/piero/">Piero</nuxt-link>, le <b>{{ date }}</b></p> 
         </div>
-        <div class="intro">
-          <vue-markdown class="content-intro">{{intro}}</vue-markdown>
-        </div>
+        <vue-markdown class="content-intro">{{intro}}</vue-markdown>
         <div class="contenu">
             <vue-markdown class="content-article">{{article}}</vue-markdown>
         </div>
@@ -83,8 +81,8 @@ export default {
     text-align: center;
   }
   .contenu{
-      text-align: left;
-      padding: 0 30px;
+      text-align: justify;
+      padding: 0 30px 0 0px;
       width: 70%;
       display: inline-grid;
   }
