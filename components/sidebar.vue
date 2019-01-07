@@ -65,6 +65,7 @@
       margin: 0px;
       display: block;
       position: relative;
+      margin-top: 5px;
   }
   .centered-and-cropped { 
     object-fit: cover;
