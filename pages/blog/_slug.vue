@@ -109,7 +109,7 @@ export default {
   .contenu .content-article p{
       color: gray;
       font-weight: 400;
-      font-size: 26px;
+      font-size: 18px;
       line-height: 1.7;
       margin-bottom: 15px;
   }
