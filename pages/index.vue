@@ -24,7 +24,7 @@
     <cdm-blog/>
       <div class="full-width">
         <div class="container border black">
-            <nuxt-link to="/blog/"><p>Revenir sur le blog</p></nuxt-link>
+            <nuxt-link to="/blog/"><p>Voir les autres actualités !</p></nuxt-link>
       </div>
   </div>
 
