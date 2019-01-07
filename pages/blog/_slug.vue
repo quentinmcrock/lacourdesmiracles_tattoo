@@ -130,18 +130,4 @@ export default {
     font-family: "titaniaregular",serif;
     border-bottom: 1px solid red;
   }
-  .linked a {
-      border: none;
-      color: grey;
-  }
-  .linked a:hover {
-      color: #000000;
-  }
-  .link a {
-      border: none;
-  }
-  .link i {
-      color: #FFF;
-  }
-
 </style>
