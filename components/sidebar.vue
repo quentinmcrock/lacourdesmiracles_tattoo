@@ -180,7 +180,7 @@
       margin-top: -15px;
       overflow: hidden;
       height: 0;
-      padding: 0 20px;
+      padding: 0 10px;
       transition: all .4s;
   }
   .collapsible__content {
