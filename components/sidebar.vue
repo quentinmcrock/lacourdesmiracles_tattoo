@@ -140,10 +140,23 @@
   .link a {
       float: right;
   }
+  .link a {
+      border: none;
+  }
+  .link i {
+      color: #FFF;
+  }
   .linked{
       margin: 0px;
       border-top: none !important;
       text-align: left;
+  }
+  .linked a {
+      border: none;
+      color: grey;
+  }
+  .linked a:hover {
+      color: #000000;
   }
   .share.border {
       border-color: #000 !important;
