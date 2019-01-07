@@ -7,7 +7,7 @@
           </div> 
           <div class="map">
               <div class="preview-wrapper">
-                  <img class="map-inst style-1 preview" src="/images/uploads/map-malbec.png">
+                  <div class="map-inst style-1 preview" id="map-canvas" data-lat="43.6012258" data-lng="1.4523422" data-zoom="17"></div>
                   <div class="addresses-block hidden" data-rel="map-canvas">
                     <a class="marker" data-lat="43.6012258" data-lng="1.4523422" data-string="1 Rue Delacroix"></a>
                   </div>
