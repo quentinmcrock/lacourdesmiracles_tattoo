@@ -21,7 +21,7 @@
 
 <script>
 import cdmDerniersarticles from '~/components/plug/derniers-articles.vue'
-import cdmSidebar from '~/components/plug/sidebar.vue'
+import cdmSidebar from '~/components/sidebar.vue'
 import VueMarkdown from 'vue-markdown'
 export default {
   layout: 'articles',
