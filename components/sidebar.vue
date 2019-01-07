@@ -21,7 +21,7 @@
       </div>
       <div class="collapsible__body">
         <div class="collapsible__content">
-          <div class="linked border" v-for="post in posts.slice().reverse()" :key="post.date">        
+          <div class="linked border" v-for="post in posts.slice().reverse().slice(3)" :key="post.date">        
               <small>{{ post.date }}</small>
               <nuxt-link :to="post._path" class="text">{{ post.title }}</nuxt-link>
           </div>
