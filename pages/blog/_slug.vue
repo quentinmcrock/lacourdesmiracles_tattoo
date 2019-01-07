@@ -15,6 +15,11 @@
         <cdm-sidebar/>
       </div>
     </article>
+    <div class="full-width">
+        <div class="container border black">
+            <nuxt-link to="/blog/"><p>Revenir sur le blog</p></nuxt-link>
+        </div>
+    </div> 
     <cdm-derniersarticles/>
    </div>
 </template>
