@@ -9,6 +9,7 @@
       <a class="entry" href="https://www.twitter.com/lacourtattoo" target="_blank"><i class="fab fa-twitter"></i></a>
      </p>
     </div>
+    <img class="recruts" :src="/images/uploads/recrutement.png">
     <div class="videos border">
       <iframe width="100%" src="https://www.youtube.com/embed/mRGHLKFlHSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
