@@ -8,8 +8,10 @@
         <div class="meta">
           <p>Par  <nuxt-link to="/artistes/piero/">Piero</nuxt-link>, le <b>{{ date }}</b></p> 
         </div>
+        <div class="intro">
+          <vue-markdown class="content-intro">{{intro}}</vue-markdown>
+        </div>
         <div class="contenu">
-            <vue-markdown class="content-intro">{{intro}}</vue-markdown>
             <vue-markdown class="content-article">{{article}}</vue-markdown>
         </div>
         <cdm-sidebar/>
