@@ -149,10 +149,9 @@
       border-color: #000 !important;
   }
   .text{
-      color:#000;
+      color:grey;
       text-decoration:none;
       margin-bottom:10px;
-      line-height: 30px;
       font-family: titaniaregular,serif;
       font-size:18px;
   }
