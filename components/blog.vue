@@ -84,7 +84,6 @@
     width: 50%;
   }
   .blog-date {
-      border-left: 7px double #e6e6e6;
       margin-bottom: 15px;
       padding-left: 10px;
       font-size: 16px;
