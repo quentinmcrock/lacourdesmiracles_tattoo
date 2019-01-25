@@ -12,13 +12,13 @@
                     <a class="marker" data-lat="43.6012258" data-lng="1.4523422" data-string="1 Rue Delacroix"></a>
                   </div>
               </div>
-              <img class="devanture" src="https://lacourdesmiracles.tattoo/assets/img/studio/cdm-img1-idrac.png">
+              <img class="devanture" src="/images/uploads/cdm-img1-idrac.png">
           </div>
       </div>      
       <div class="delacroix shop-select shop-right active">
         <div class="transform">
             <div class="cover">
-                <img src="https://lacourdesmiracles.tattoo/assets/img/studio/cdm-img3-idrac.png">
+                <img src="/images/uploads/cdm-img3-idrac.png">
             </div>
             <div class="info">
                 <p>Mardi au Samedi : <b>10H à 12H et 14H à 19H</b></p>
@@ -41,13 +41,13 @@
                     <a class="marker"  data-lat="43.6021025" data-lng="1.4398719"  data-string="10 Rue Malbec"></a>
                   </div>
               </div>
-              <img class="devanture" src="https://lacourdesmiracles.tattoo/assets/img/studio/cdm-img1-malbec.png">
+              <img class="devanture" src="/images/uploads/cdm-img1-malbec.png">
           </div>
       </div>      
       <div class="malbec shop-select shop-right">
         <div class="transform">
             <div class="cover">
-                <img src="https://lacourdesmiracles.tattoo/assets/img/studio/cdm-img3-malbec.png">
+                <img src="/images/uploads/cdm-img3-malbec.png">
             </div>
             <div class="info">
                 <p>Mardi au Samedi : <b>13H/19H</b></p>
