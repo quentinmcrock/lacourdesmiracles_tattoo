@@ -129,8 +129,9 @@
       position:relative;
   }
   .link {
-      line-height: 50px;
+      line-height: 50px!important;
       display: block;
+      height: 50px!important;
       position: relative;
       text-align:left;
       font-family: titaniaregular;
