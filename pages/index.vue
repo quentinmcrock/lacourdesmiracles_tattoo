@@ -3,7 +3,7 @@
   <div class="container border">
     <h2>L'équipe</h2>
     <p>Les artistes de <b>la Cour des Miracles</b> sont tous des <i>artistes</i> reconnus et confirmés. Ils ont chacun leur propre <i>style</i>, il est important de vous familiariser avec leurs différents <i>univers</i>. Nous vous proposons donc d’aller voir les <i>galeries</i> et <i>pages perso</i> de chacun et de suivre les liens proposés.</p>
-    <h3>La cour des miracles <strong>recherche des tatoueurs</strong>, bon niveau et book solide requis !</h3>
+    <h3 class="recrute">La cour des miracles <strong>recherche des tatoueurs</strong>, bon niveau et book solide requis !</h3>
   </div>
   <cdm-artistes/>
   
@@ -67,6 +67,9 @@
   }
 </script>
 <style>
+h3.recrute {
+  margin-top: 30px;
+}
 @media only screen and (min-width:960px) and (max-width:1264px){
 
 }
