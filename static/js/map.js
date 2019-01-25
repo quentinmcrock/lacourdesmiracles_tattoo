@@ -6,7 +6,7 @@ $(function() {
         marker[name] = new google.maps.Marker({
             position: location,
             map: map,
-			icon: 'assets/img/marker.png',
+			icon: '/images/uploads/marker.png',
         });
         marker[name].setMap(map);
 
