@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="container border black">
-      <h2>Nous contactez</h2>
+      <h2>Nous contacter</h2>
     </div>
     <div class="container border">
       <form name="contact" netlify>
